@@ -1,0 +1,3217 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\HARA\Documents\GitHub\hackathon\hackathon_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\HARA\Documents\GitHub\hackathon\hackathon_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\HARA\Documents\GitHub\hackathon\hackathon_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\HARA\Documents\GitHub\hackathon\hackathon_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\HARA\Documents\GitHub\hackathon\hackathon_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\HARA\Documents\GitHub\hackathon\hackathon_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\HARA\Documents\GitHub\hackathon\hackathon_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\HARA\Documents\GitHub\hackathon\hackathon_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: C:\Users\HARA\Documents\GitHub\hackathon\hackathon_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\HARA\Documents\GitHub\hackathon\hackathon_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.770986 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.407995 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.796585 ms (FindLiveObjects: 0.034559 ms CreateObjectMapping: 0.013653 ms MarkObjects: 0.174933 ms  DeleteObjects: 0.573012 ms)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.988159 ms
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 215.
+Total: 3.729916 ms (FindLiveObjects: 0.028159 ms CreateObjectMapping: 0.024319 ms MarkObjects: 0.270933 ms  DeleteObjects: 3.406077 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.600319 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.375039 ms (FindLiveObjects: 0.038826 ms CreateObjectMapping: 0.014933 ms MarkObjects: 0.221013 ms  DeleteObjects: 0.099413 ms)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+email attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[Rigidbody2D] () [0x00000] in <filename unknown>:0 
+  at BothPlayers.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+players[1]: 1.142255
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.948105
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.850903
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.961323
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949635
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949635
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.85109
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950359
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.189415
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949235
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950715
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950715
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950122
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950122
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.95001
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.95001
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950056
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950056
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.951449
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950075
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.95023
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.95023
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.025846
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949976
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.035288
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950499
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.039348
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949315
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.039514
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.948794
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.049032
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950502
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.049357
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950656
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949682
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949682
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.085531
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949708
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.073757
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950934
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.063139
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949425
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.058933
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949853
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.050433
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.944595
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950724
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950724
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.108317
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.948503
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950931
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950931
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.113279
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.954005
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.084573
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.071475
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949823
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.063953
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950158
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.061736
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.953147
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949516
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949516
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.090131
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949782
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.073977
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.948353
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.968675
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.943684
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.103209
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.95349
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.079657
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950856
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.069108
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.951564
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.060827
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950909
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.056427
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950839
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949459
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949459
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.090095
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949896
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.076135
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950689
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.065112
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949563
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.060159
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -4.055509
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950257
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.359855
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950467
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950294
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950294
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.541689
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949956
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.725878
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950433
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.844258
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.949395
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.921192
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950202
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950371
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950371
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.94954
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.94954
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.952704
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.952704
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950403
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -1.950403
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -2.524274
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -3.098344
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -4.246307
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+c punch: -6.542234
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.566186 ms
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 215.
+Total: 3.000317 ms (FindLiveObjects: 0.018346 ms CreateObjectMapping: 0.015786 ms MarkObjects: 0.215466 ms  DeleteObjects: 2.749864 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.532906 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.294399 ms (FindLiveObjects: 0.037973 ms CreateObjectMapping: 0.029439 ms MarkObjects: 0.196693 ms  DeleteObjects: 0.029439 ms)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+players[1]: 1.91662
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950412
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951449
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950971
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949105
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949105
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950513
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951072
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950751
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.947209
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.946945
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.633885
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.94962
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951805
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951805
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.948119
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.948119
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951187
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951187
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951264
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951264
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949106
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949106
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950063
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950063
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+players[1]: 1.241628
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.946956
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951438
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951438
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950881
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950881
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950158
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950158
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.952291
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.952291
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951073
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951073
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.641594
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949055
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950381
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950381
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950546
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950546
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.95056
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.95056
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950349
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950349
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.952513
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.952513
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.649724
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949585
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951221
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.951221
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949578
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949578
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950065
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950065
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950657
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950657
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949272
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949272
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950135
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950135
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.550164
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.948535
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950898
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950898
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950496
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950496
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949444
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949444
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949718
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949718
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950999
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+players[1]: 3.05126
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949782
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950692
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950692
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949948
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.949948
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950415
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+players[1]: 1.950415
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Animator.GotoState: State could not be found
+ 
+(Filename:  Line: 1101)
+
+Invalid Layer Index '-1'
+ 
+(Filename:  Line: 697)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3bc -> priority: 1 
